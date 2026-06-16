@@ -1,0 +1,17 @@
+order_id, customer_name, product, quantity, price, order_date, status
+101, Alice Johnson, Laptop, 2, 1200.50, 2024-01-15, order_date
+102, Bob Smith, Mouse, -5, 25.00, 2024-01-16, cancelled
+103, Charlie Brown, Keyboard, 3, 75.00, 2024-01-16, completed
+104, Diana Prince, Monitor, 0, 300.00, 2024-01-17, pending
+105, Eve Adams, Laptop, 1, 1200.50, 2024-01-18, completed
+106, , Mouse, 10, 25.00, 2024-01-18, completed
+107, Frank Castle, Keyboard, 3, -75.00, 2024-01-19, completed
+108, Grace Lee, Monitor, 4, 300.00, 2024-01-20, completed
+109, Henry Ford, USB Cable, 15, 10.00, 2024-01-20, completed
+110, Ivy Chen, Laptop, 2, 1200.50, 2024-01-21, pending
+111, Jack White, Mouse, 8, 25.00, 2024-01-21, refunded
+112, Karen Black, Keyboard, 0, 75.00, 2024-01-22, cancelled
+113, Leo Green, Monitor, 1, 300.00, 2024-01-22, completed
+114, Mary Jane, Laptop, 3, 1200.50, 2024-01-23, completed
+115, Nick Young, Mouse, 4, 25.00, 2024-01-23, completed
+
