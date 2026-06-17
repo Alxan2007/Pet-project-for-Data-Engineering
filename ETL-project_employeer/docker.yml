@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: employeer_postgres
+    environment:
+      POSTGRES_USER: etl_user           # ← имя пользователя
+      POSTGRES_PASSWORD: etl_password   # ← пароль
+      POSTGRES_DB: etl_db               # ← база данных
+    ports:
+    - "5432:5432"
+    volumes:
+        - postgres_data:/var/lib/posgresql/data
+volumes:
+  postgres_data:

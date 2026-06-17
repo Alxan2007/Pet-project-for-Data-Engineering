@@ -1,0 +1,21 @@
+employee_id,full_name,department,salary,hire_date,status,performance_rating
+1001,John Smith,IT,75000.00,2023-01-15,active,4.5
+1002,Jane Doe,HR,65000.00,2023-02-20,active,3.8
+1003,Bob Johnson,IT,85000.00,2023-03-10,active,4.2
+1004,Alice Williams,Finance,72000.00,2023-04-05,active,4.0
+1005,Charlie Brown,Marketing,68000.00,2023-05-12,active,3.5
+1006,Diana Prince,IT,-5000.00,2023-06-18,terminated,4.8
+1007,Eve Adams,HR,64000.00,2023-07-22,active,3.2
+1008,Frank Castle,Finance,78000.00,2023-08-30,active,4.1
+1009,Grace Lee,Marketing,0.00,2023-09-15,active,3.9
+1010,Henry Ford,IT,92000.00,2023-10-01,active,4.9
+1011,Ivy Chen,HR,61000.00,2023-11-10,active,3.7
+1012,Jack White,Finance,70000.00,2023-12-20,active,4.3
+1013,Karen Black,IT,82000.00,2024-01-15,active,4.6
+1014,Leo Green,Marketing,67000.00,2024-02-01,active,3.4
+1015,Mary Jane,HR,0.00,2024-02-15,active,3.1
+1016,Nick Young,IT,88000.00,2024-03-01,terminated,4.7
+1017,Oliver Queen,Finance,75000.00,2024-03-15,active,4.4
+1018,Peter Parker,IT,72000.00,2024-04-01,active,4.0
+1019,Quinn Fabray,Marketing,66000.00,2024-04-15,active,3.6
+1020,Rachel Green,HR,63000.00,2024-05-01,active,3.3
